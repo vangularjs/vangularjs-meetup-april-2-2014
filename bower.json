@@ -1,0 +1,9 @@
+{
+  "name": "vangularjs-meetup-april-2-2014",
+  "description": "$resource and structuring application modules",
+  "version": "0.0.0",
+  "author": "AngularJS Vancouver <http://www.meetup.com/vanangularJS>",
+  "license": "MIT",
+  "dependencies": {}
+}
+
